@@ -1,0 +1,61 @@
+.container
+{
+    width: 75%;
+    height: auto;
+    
+    background-color: rgba(210, 210, 195, 0.658);
+    border: 3px solid black;
+    border-radius: 50px 50px 50px 50px;
+}
+.variable{
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+.listeleve{
+    
+    height: auto;
+    background-color: brown;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    border-radius: 5px 5px 5px 5px;
+}
+.form-select{
+    border-radius: 950px 950px 950px 950px;
+}
+
+.appreiation{
+    width: 30%;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 200px 200px 200px 200px;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+}
+.appreiations{
+    width: 30%;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 50px 50px 50px 50px;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+}
+.text{
+    width: 100%;
+    height: auto;
+text-align: center;
+    font-size: 24px;
+}
+
+.img-thumbnails {
+    width: 90px;
+    height: auto;
+}
